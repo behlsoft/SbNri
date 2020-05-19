@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SB nri</string>
+    <string name="loading">loading</string>
+    <string name="unknown">unknown</string>
+    <string name="issueCount">"Issue count"</string>
+    <string name="getting_results">Getting data</string>
+    <string name="no_data_found">No Data Found</string>
+    <string name="push">Push</string>
+    <string name="pull">Pull</string>
+    <string name="admin">Admin</string>
+</resources>
